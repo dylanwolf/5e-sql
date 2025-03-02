@@ -1,0 +1,340 @@
+Creature Name	Chapter	Challenge Rating	Role	Entry	Type	Size	Page
+Angulotl Blade	1	1/4	Skirmisher	Angulotls	Humanoid	Small	28
+Angulotl Needler	1	4	Artillery	Angulotls	Humanoid	Small	29
+Angulotl Seer	1	6	Controller	Angulotls	Humanoid	Small	30
+Angulotl Slink	1	2	Ambusher	Angulotls	Humanoid	Small	31
+Angulotl Tadpole	1	1/4	Minion	Angulotls	Humanoid	Small	31
+Clawfish	1	1/8	Brute	Angulotls	Beast	Small	32
+Angulotl Yegg	1	N/A	Retainer	Angulotls	Humanoid	Small	32
+Clawfish Companion	1	N/A	Companion	Angulotls	Beast	Small	33
+Bear	1	2	Controller	Animals	Beast	Large	35
+Little Bear	1	1	Brute	Animals	Beast	Small or Medium	36
+Bird of Prey	1	1/2	Skirmisher	Animals	Beast	Tiny or Small	37
+Dire Bird of Prey	1	3	Skirmisher	Animals	Beast	Medium or Large	37
+Camel	1	1/2	Controller	Animals	Beast	Large	39
+Deathhawk	1	4	Skirmisher	Animals	Beast	Medium	39
+Lightning Eel	1	2	Artillery	Animals	Beast	Medium	40
+Ancient Lightning Eel	1	12	Leader	Animals	Beast	Gargantuan	40
+Snowfox	1	1/4	Ambusher	Animals	Beast	Tiny	41
+Swarm of Insects	1	1/2	Soldier	Animals	Beast	Medium	41
+Swarm of Spiders	1	1/2	Controller	Animals	Beast	Medium	42
+Little Wildcat	1	1/2	Ambusher	Animals	Beast	Tiny or Small	43
+Wildcat	1	1	Ambusher	Animals	Beast	Medium or Large	43
+Bear Companion	1	N/A	Companion	Animals	Beast	Large	44
+Blood Hawk Companion	1	N/A	Companion	Animals	Beast	Small	45
+Camel Companion	1	N/A	Companion	Animals	Beast	Large	46
+Wildcat Companion	1	N/A	Companion	Animals	Beast	Medium or Large	47
+Basilisk	1	3	Brute	Basilisks	Monstrosity	Medium	48
+Basilisk Companion	1	N/A	Companion	Basilisks	Monstrosity	Medium	49
+Bugbear Channeler	1	7	Controller	Bugbears	Humanoid	Medium	51
+Bugbear Commander	1	5	Support	Bugbears	Humanoid	Medium	51
+Bugbear Predator	1	3	Ambusher	Bugbears	Humanoid	Medium	52
+Bugbear Regular	1	1	Minion	Bugbears	Humanoid	Medium	52
+Bugbear Roughneck	1	1	Brute	Bugbears	Humanoid	Medium	53
+Bugbear Warden	1	N/A	Retainer	Bugbears	Humanoid	Medium	53
+Chimera	1	6	Skirmisher	Chimeras	Monstrosity	Large	54
+Chimera Companion	1	N/A	Companion	Chimeras	Monstrosity	Large	55
+Chimeron	1	12	Brute	Demons	Fiend	Huge	58
+Pitling	1	4	Minion	Demons	Fiend	Tiny	58
+Ruinant	1	6	Skirmisher	Demons	Fiend	Medium	59
+Tormenauk	1	8	Brute	Demons	Fiend	Large	60
+Wobalas	1	10	Artillery	Demons	Fiend	Medium	61
+Aurumvas	1	14	Leader	Demons	Fiend	Huge	62
+Devil Adjudicator	1	14	Controller	Devils	Fiend	Medium	66
+Devil Jurist	1	10	Artillery	Devils	Fiend	Medium	67
+Devil Legate	1	8	Soldier	Devils	Fiend	Medium	68
+Devil Notary	1	6	Minion	Devils	Fiend	Medium	69
+Devil Magistrate	1	12	Skirmisher	Devils	Fiend	Medium	69
+Infernal Chancellor Lazivos	1	16	Leader	Devils	Fiend	Medium	71
+Devil Retainer	1	N/A	Retainer	Devils	Fiend	Medium	72
+Dragonet	1	1/4	Support	Dragonets	Dragon	Tiny	73
+Durixaviinox	1	20	Solo	Dragons	Dragon	Gargantuan	77
+Forzaantirilys	1	24	Solo	Dragons	Dragon	Gargantuan	79
+Qazyldrath	1	21	Solo	Dragons	Dragon	Gargantuan	81
+Xaantikorijek	1	23	Solo	Dragons	Dragon	Gargantuan	83
+Yserthrax	1	22	Solo	Dragons	Dragon	Gargantuan	85
+Crux of Fire	1	5	Artillery	Elementals	Elemental	Medium	89
+Air Spark	1	15	Minion	Elementals	Elemental	Small	89
+Crux of Frost	1	8	Controller	Elementals	Elemental	Medium	90
+Essence of Mist	1	13	Ambusher	Elementals	Elemental	Medium	91
+Earth Spark	1	10	Minion	Elementals	Elemental	Large	91
+Essence of Storms	1	5	Controller	Elementals	Elemental	Medium	92
+Fire Spark	1	5	Minion	Elementals	Elemental	Medium	93
+Essence of Tides	1	5	Skirmisher	Elementals	Elemental	Medium	93
+Force of Blood	1	19	Brute	Elementals	Elemental	Large	94
+Force of Earth	1	5	Soldier	Elementals	Elemental	Large	95
+Force of Iron	1	10	Brute	Elementals	Elemental	Large	96
+Oracle of Storms	1	16	Artillery	Elementals	Elemental	Huge	97
+Principle of Growth	1	15	Controller	Elementals	Elemental	Huge	98
+Water Spark	1	20	Minion	Elementals	Elemental	Medium	99
+Sunlight Nexus	1	12	Support	Elementals	Elemental	Large	99
+Atæshia	1	23	Leader	Elementals	Elemental	Medium	101
+Blood Seneschal	1	N/A	Retainer	Elementals	Elemental	Medium	102
+Lava Bastion	1	N/A	Retainer	Elementals	Elemental	Large	102
+Earth Elemental Companion	1	N/A	Companion	Elementals	Elemental	Large	103
+Fire Giant Red Fist	1	9	Soldier	Giants	Giant	Huge	106
+Zenith Aastrika	1	12	Leader	Giants	Giant	Huge	107
+Fire Giant Trooper	1	12	Minion	Giants	Giant	Huge	107
+Frost Giant Storm Hurler	1	8	Artillery	Giants	Giant	Huge	108
+Hill Giant Clobberer	1	5	Brute	Giants	Giant	Huge	109
+Frost Giant Wind Sprinter	1	8	Skirmisher	Giants	Giant	Huge	109
+Fire Giant Lightbearer	1	10	Support	Giants	Giant	Huge	109
+Hill Giant Flunky	1	5	Minion	Giants	Giant	Huge	110
+Basalt Stone Giant	1	8	Controller	Giants	Giant	Huge	111
+Granite Stone Giant	1	7	Soldier	Giants	Giant	Huge	111
+Marble Stone Giant	1	6	Artillery	Giants	Giant	Huge	112
+Gibbering Mouther	1	2	Controller	Gibbering Mouthers	Aberration	Medium	114
+Gibbering Mouther Companion	1	N/A	Companion	Gibbering Mouthers	Aberration	Medium	115
+Gnoll Abyssal Archer	1	1/2	Artillery	Gnolls	Fiend	Medium	116
+Gnoll Abyssal Summoner	1	6	Support	Gnolls	Fiend	Medium	117
+Gnoll Bonesplitter	1	4	Brute	Gnolls	Fiend	Medium	118
+Gnoll Cackler	1	2	Controller	Gnolls	Fiend	Medium	119
+Gnoll Mage-Gorger	1	4	Minion	Gnolls	Fiend	Medium	119
+Gnoll Marauder	1	1/2	Skirmisher	Gnolls	Fiend	Medium	120
+Abyssal Hyena	1	1	Minion	Gnolls	Fiend	Medium	121
+Gnoll Wildling	1	1	Minion	Gnolls	Fiend	Medium	121
+Tusker Demon	1	7	Skirmisher	Gnolls	Fiend	Huge	122
+Abyssal Hyena Companion	1	N/A	Companion	Gnolls	Fiend	Medium	123
+Gnoll Gnasher	1	N/A	Retainer	Gnolls	Fiend	Medium	123
+Goblin Assassin	1	1/2	Ambusher	Goblins	Humanoid	Small	126
+Goblin Cursespitter	1	1	Controller	Goblins	Humanoid	Small	126
+Goblin Sniper	1	1/2	Artillery	Goblins	Humanoid	Small	127
+Goblin Lackey	1	1/4	Minion	Goblins	Humanoid	Small	127
+Goblin Spinecleaver	1	1	Brute	Goblins	Humanoid	Small	128
+Goblin Underboss	1	2	Support	Goblins	Humanoid	Small	128
+Goblin Warrior	1	1/4	Skirmisher	Goblins	Humanoid	Small	129
+Skitterling	1	1/8	Skirmisher	Goblins	Beast	Tiny	129
+Swarm of Skitterlings	1	2	Soldier	Goblins	Beast	Medium	129
+War Spider	1	3	Brute	Goblins	Beast	Huge	130
+Queen Bargnot	1	3	Leader	Goblins	Humanoid	Small	131
+Skitterling Companion	1	N/A	Companion	Goblins	Beast	Tiny	132
+Goblin Sneak	1	N/A	Retainer	Goblins	Humanoid	Small	132
+Worg Companion	1	N/A	Companion	Goblins	Monstrosity	Large	133
+Griffon Companion	1	N/A	Companion	Griffons	Beast	Large	135
+Griffon	1	2	Controller	Griffons	Beast	Large	135
+Green Hag	1	3	Support	Hags	Fey	Medium	137
+Night Hag	1	5	Controller	Hags	Fey	Medium	138
+Sea Hag	1	2	Artillery	Hags	Fey	Medium	139
+Shtriga Nonna	1	6	Solo	Hags	Fey	Medium	140
+Sea Hag Apprentice	1	N/A	Retainer	Hags	Fey	Medium	141
+Harpy	1	1	Controller	Harpies	Monstrosity	Medium	142
+Starving Harpy	1	1	Minion	Harpies	Monstrosity	Medium	143
+Harpy Fledgling	1	N/A	Retainer	Harpies	Monstrosity	Medium	143
+Hellhound	1	3	Soldier	Hellhounds	Fiend	Medium	144
+Hellhound Companion	1	N/A	Companion	Hellhounds	Fiend	Medium	145
+Hellhound Cur	1	3	Minion	Hellhounds	Fiend	Medium	145
+Hobgoblin Brandbearer	1	5	Minion	Hobgoblins	Humanoid	Medium	148
+Hobgoblin Death Captain	1	6	Support	Hobgoblins	Humanoid	Medium	148
+Hobgoblin Firerunner	1	4	Skirmisher	Hobgoblins	Humanoid	Medium	149
+Hobgoblin Incendiarist	1	1	Artillery	Hobgoblins	Humanoid	Medium	150
+Hobgoblin Recruit	1	1/2	Minion	Hobgoblins	Humanoid	Medium	150
+Hobgoblin Smokebinder	1	2	Ambusher	Hobgoblins	Humanoid	Medium	151
+Hobgoblin Trooper	1	1/2	Soldier	Hobgoblins	Humanoid	Medium	152
+Hobgoblin War Mage	1	3	Controller	Hobgoblins	Humanoid	Medium	153
+Grilp	1	1/4	Ambusher	Hobgoblins	Fiend	Medium	154
+Slaughter Demon	1	8	Brute	Hobgoblins	Fiend	Medium	155
+Bloodlord Varrox	1	8	Leader	Hobgoblins	Humanoid	Medium	157
+Hobgoblin Tactician	1	N/A	Retainer	Hobgoblins	Humanoid	Medium	157
+Human Apprentice Mage	1	6	Minion	Humans	Humanoid	Medium	159
+Human Brawler	1	2	Brute	Humans	Humanoid	Medium	160
+Human Death Acolyte	1	2	Minion	Humans	Humanoid	Medium	160
+Human Death Cultist	1	4	Support	Humans	Humanoid	Medium	161
+Human Guard	1	1/8	Minion	Humans	Humanoid	Medium	162
+Human Knave	1	3	Soldier	Humans	Humanoid	Medium	162
+Human Scoundrel	1	3	Ambusher	Humans	Humanoid	Medium	163
+Human Raider	1	1/2	Skirmisher	Humans	Humanoid	Medium	163
+Human Storm Wizard	1	6	Controller	Humans	Humanoid	Medium	164
+Human Trickshot	1	2	Artillery	Humans	Humanoid	Medium	165
+Baron Uthrak	1	7	Leader	Humans	Humanoid	Medium	166
+Human Mercenary	1	N/A	Retainer	Humans	Humanoid	Medium	166
+Kingfissure Worm	1	15	Solo	Kingfissure Worms	Monstrosity	Gargantuan	168
+Kingfissure Worm Companion	1	N/A	Companion	Kingfissure Worms	Monstrosity	Large	169
+Kobold Adeptus	1	1/8	Artillery	Kobolds	Humanoid	Small	171
+Kobold Artifex	1	2	Controller	Kobolds	Humanoid	Small	172
+Kobold Centurion	1	1	Controller	Kobolds	Humanoid	Small	173
+Kobold Legionary	1	1/2	Soldier	Kobolds	Humanoid	Small	174
+Kobold Signifer	1	1	Support	Kobolds	Humanoid	Small	175
+Kobold Tiro	1	1/8	Minion	Kobolds	Humanoid	Small	176
+Kobold Veles	1	1/8	Skirmisher	Kobolds	Humanoid	Small	176
+Kobold Venator	1	1/4	Ambusher	Kobolds	Humanoid	Small	177
+Shieldscale Drangolin	1	2	Brute	Kobolds	Dragon	Large	178
+Drangolin Companion	1	N/A	Companion	Kobolds	Dragon	Large	179
+Kobold Decanus	1	N/A	Retainer	Kobolds	Humanoid	Small	179
+Lightbender	1	5	Ambusher	Lightbenders	Monstrosity	Large	180
+Lightbender Companion	1	N/A	Companion	Lightbenders	Monstrosity	Large	181
+Lizardfolk Bloodeye	1	2	Controller	Lizardfolk	Humanoid	Medium	182
+Lizardfolk Scaletooth	1	1/2	Brute	Lizardfolk	Humanoid	Medium	183
+Lizardfolk Grunt	1	1/2	Minion	Lizardfolk	Humanoid	Medium	183
+Lizardfolk Terrorsoar	1	4	Skirmisher	Lizardfolk	Humanoid	Medium	184
+Lizardfolk Hunter	1	N/A	Retainer	Lizardfolk	Humanoid	Medium	185
+Manticore	1	3	Skirmisher	Manticores	Monstrosity	Large	186
+Manticore Companion	1	N/A	Companion	Manticores	Monstrosity	Large	187
+Medusa	1	6	Controller	Medusas	Monstrosity	Medium	189
+Lady Emer	1	11	Solo	Medusas	Monstrosity	Medium	190
+Medusa Headstrong	1	N/A	Retainer	Medusas	Monstrosity	Medium	191
+Mimic	1	2	Ambusher	Mimics	Monstrosity	Medium	193
+Mimic Mimiature	1	1	Minion	Mimics	Monstrosity	Tiny	194
+Mimic Companion	1	N/A	Companion	Mimics	Monstrosity	Medium	195
+Minotaur	1	3	Skirmisher	Minotaur	Monstrosity	Large	196
+Minotaur Lackey	1	3	Minion	Minotaur	Monstrosity	Large	197
+Minotaur Devastator	1	N/A	Retainer	Minotaur	Monstrosity	Large	197
+Ogre	1	2	Brute	Ogres	Giant	Large	198
+Ogre Goon	1	2	Minion	Ogres	Giant	Large	198
+Ogre Basher	1	N/A	Retainer	Ogres	Giant	Large	199
+Olothec	1	10	Controller	Olothec	Aberration	Large	201
+Ithu'rath	1	16	Solo	Olothec	Aberration	Large	202
+Orc Blitzer	1	1/2	Minion	Orcs	Humanoid	Medium	206
+Orc Bloodrunner	1	1/2	Skirmisher	Orcs	Humanoid	Medium	206
+Orc Conduit	1	1	Artillery	Orcs	Humanoid	Medium	207
+Orc Forcecaller	1	1	Minion	Orcs	Humanoid	Medium	207
+Orc Garroter	1	1	Ambusher	Orcs	Humanoid	Medium	208
+Orc Fury	1	1/2	Brute	Orcs	Humanoid	Medium	208
+Orc Godcaller	1	4	Support	Orcs	Humanoid	Medium	209
+Orc Rampart	1	2	Soldier	Orcs	Humanoid	Medium	210
+Mohler	1	1/4	Controller	Orcs	Monstrosity	Small	211
+Orc Terranova	1	2	Controller	Orcs	Humanoid	Medium	211
+Scyza	1	4	Brute	Orcs	Monstrosity	Huge	212
+Dohma Raskovar	1	5	Leader	Orcs	Humanoid	Medium	213
+Orc Blacksmith	1	N/A	Retainer	Orcs	Humanoid	Medium	214
+Mohler Companion	1	N/A	Companion	Orcs	Monstrosity	Small	215
+Otyugh	1	5	Controller	Otyughs	Aberration	Large	216
+Otyugh Companion	1	N/A	Companion	Otyughs	Aberration	Large	217
+Otyugh Dregsbelcher	1	5	Minion	Otyughs	Aberration	Large	217
+Overmind	1	11	Artillery	Overminds	Aberration	Large	219
+Xorannox	1	14	Solo	Overminds	Aberration	Large	220
+Owlbear	1	3	Brute	Owlbears	Monstrosity	Large	222
+Owlbear Companion	1	N/A	Companion	Owlbears	Monstrosity	Large	223
+Shambling Mound	1	5	Controller	Shambling Mounds	Plant	Gargantuan	224
+Shambling Mound Companion	1	N/A	Companion	Shambling Mounds	Plant	Large	225
+Shambling Pile	1	5	Minion	Shambling Mounds	Plant	Medium	225
+Stirge	1	1/8	Controller	Stirges	Monstrosity	Tiny	226
+Stirge Companion	1	N/A	Companion	Stirges	Monstrosity	Tiny	227
+Stirge Broodling	1	1/8	Minion	Stirges	Monstrosity	Tiny	227
+Time Raider Archon	1	3	Minion	Time Raiders	Humanoid	Medium	229
+Time Raider Armiger	1	3	Soldier	Time Raiders	Humanoid	Medium	230
+Time Raider Nemesis	1	8	Skirmisher	Time Raiders	Humanoid	Medium	231
+Time Raider Vertex	1	7	Support	Time Raiders	Humanoid	Large	232
+Time Raider Freebooter	1	N/A	Retainer	Time Raiders	Humanoid	Medium	233
+Goxomoc	1	30	Solo	Titans	Monstrosity	Gargantuan	236
+Xogomoc	1	30	Solo	Titans	Elemental	Gargantuan	237
+Kraken	1	26	Solo	Titans	Monstrosity	Gargantuan	238
+Treant	1	9	Controller	Treants	Plant	Huge	240
+Treant Sapling	1	9	Minion	Treants	Plant	Medium	241
+Treant Immobilizer	1	N/A	Retainer	Treants	Plant	Large	241
+Troll	1	5	Brute	Trolls	Giant	Large	242
+Troll Limbjumble	1	2	Minion	Trolls	Giant	Small	243
+Troll Whelp	1	5	Minion	Trolls	Giant	Medium	243
+Shade	1	1	Minion	Undead	Undead	Medium	246
+Shadow	1	1/2	Ambusher	Undead	Undead	Medium	247
+Specter	1	1	Skirmisher	Undead	Undead	Medium	247
+Wraith	1	5	Controller	Undead	Undead	Medium	248
+Kiona the Dread Lord	1	9	Leader	Undead	Undead	Medium	249
+Ghost Sycophant	1	N/A	Retainer	Undead	Undead	Medium	250
+Crawling Claw	1	0	Minion	Undead	Undead	Tiny	251
+Decrepit Skeleton	1	1/4	Minion	Undead	Undead	Medium	252
+Ghoul Craver	1	1	Minion	Undead	Undead	Medium	252
+Ghoul	1	1	Skirmisher	Undead	Undead	Medium	252
+Giant Zombie	1	4	Brute	Undead	Undead	Huge	253
+Skeleton	1	1/4	Artillery	Undead	Undead	Medium	254
+Rotting Zombie	1	1/4	Minion	Undead	Undead	Medium	254
+Zombie	1	1/4	Brute	Undead	Undead	Medium	255
+Wight Siphoner	1	3	Minion	Undead	Undead	Medium	255
+Wight	1	3	Soldier	Undead	Undead	Medium	255
+Wight Deathguard	1	N/A	Retainer	Undead	Undead	Medium	256
+Crawling Claw Companion	1	N/A	Companion	Undead	Undead	Tiny	257
+Lich	1	21	Controller	Undead	Undead	Medium	259
+High Mage Vairae	1	25	Solo	Undead	Undead	Medium	260
+Flesh Mournling	1	5	Brute	Undead	Undead	Large	263
+Dirt Mournling	1	18	Controller	Undead	Undead	Huge	263
+Mummy	1	3	Brute	Undead	Undead	Medium	265
+Mummy Rotwrap	1	4	Minion	Undead	Undead	Medium	265
+Ashyra	1	15	Solo	Undead	Undead	Medium	266
+Blood-Starved Vampire	1	9	Minion	Undead	Undead	Medium	269
+Vampire	1	13	Skirmisher	Undead	Undead	Medium	270
+Vampire Spawn	1	5	Skirmisher	Undead	Undead	Medium	271
+Count Rhodar von Glauer	1	19	Solo	Undead	Undead	Medium	272
+Vampire Neophyte	1	N/A	Retainer	Undead	Undead	Medium	274
+Multivok Bodyguard	1	8	Soldier	Valok	Construct	Large	276
+Multivok Chief	1	14	Support	Valok	Construct	Medium	277
+Servok Builder	1	12	Brute	Valok	Construct	Huge	278
+Servok Miner	1	10	Controller	Valok	Construct	Large	279
+Servok War Engine	1	16	Brute	Valok	Construct	Huge	280
+Voiceless Talker	1	7	Controller	Voiceless Talkers	Aberration	Medium	282
+Voiceless Talker Artillerist	1	10	Artillery	Voiceless Talkers	Aberration	Medium	283
+Voiceless Talker Graywarper	1	5	Minion	Voiceless Talkers	Aberration	Medium	283
+Hulking Brain	1	7	Brute	Voiceless Talkers	Aberration	Large	284
+Mindkiller	1	2	Ambusher	Voiceless Talkers	Aberration	Small	285
+Mindkiller Whelp	1	2	Minion	Voiceless Talkers	Aberration	Small	285
+Lord Syuul	1	15	Solo	Voiceless Talkers	Aberration	Medium	287
+Voiceless Talker Operative	1	N/A	Retainer	Voiceless Talkers	Aberration	Medium	288
+Wyvern Companion	1	N/A	Companion	Wyverns	Dragon	Large	290
+Wyvern	1	6	Controller	Wyverns	Dragon	Large	290
+Fossil Cryptic	2	7	Skirmisher	Cave	Elemental	Medium	294
+Koptourok	2	5	Controller	Cave	Undead	Medium	295
+Lamasombra	2	13	Ambusher	Cave	Monstrosity	Medium	296
+Yumgrub	2	0	Minion	Cave	Beast	Tiny	297
+Bonestalker	2	6	Ambusher	Enchanted Forest	Fey	Medium	301
+Dancing Lady	2	9	Controller	Enchanted Forest	Plant	Huge	302
+Empyrean Stag	2	13	Support	Enchanted Forest	Celestial	Large	303
+Rotbeast	2	3	Brute	Enchanted Forest	Beast	Large	304
+Rotbeast Companion	2	N/A	Companion	Enchanted Forest	Beast	Large	304
+Ashen Hoarder	2	10	Controller	Graveyard and Tombs	Construct	Huge	308
+Blood-Borne Ooze	2	1/4	Ambusher	Graveyard and Tombs	Ooze	Tiny	309
+Haunt	2	9	Skirmisher	Graveyard and Tombs	Undead	Huge	309
+Lightthief	2	2	Ambusher	Graveyard and Tombs	Fiend	Tiny	310
+Blood-Borne Ooze Companion	2	N/A	Companion	Graveyard and Tombs	Ooze	Tiny	311
+Ankheg	2	2	Solo	Road	Monstrosity	Large	315
+Bredbeddle	2	8	Brute	Road	Giant	Huge	316
+Weeping Willow	2	4	Controller	Road	Plant	Huge	317
+Flintmoth Swarm	2	11	Brute	Ruined Keep	Elemental	Huge	321
+Lacuna	2	15	Skirmisher	Ruined Keep	Fiend	Medium	322
+Thornblood	2	20	Controller	Ruined Keep	Plant	Gargantuan	323
+Arcane Amalgam	2	6	Controller	Sewers	Ooze	Large	328
+Stoneback Isopod	2	2	Brute	Sewers	Beast	Medium	329
+Valochera	2	9	Controller	Sewers	Plant	Large	329
+Stoneback Isopod Companion	2	N/A	Companion	Sewers	Beast	Medium	330
+Bog Body	2	1	Ambusher	Swamp	Undead	Medium	334
+Marsh Hydra	2	7	Brute	Swamp	Monstrosity	Large	334
+Rot Angel	2	4	Skirmisher	Swamp	Celestial	Medium	335
+Swamp Dryad	2	13	Controller	Swamp	Fey	Large	336
+Deep Dreamer	2	13	Controller	Underground	Plant	Large	340
+Gem Jelly	2	9	Brute	Underground	Ooze	Large	341
+Leyleech	2	1/8	Controller	Underground	Monstrosity	Small	341
+Marvorok	2	17	Ambusher	Underground	Monstrosity	Large	342
+Gem Jelly Companion	2	N/A	Companion	Underground	Ooze	Large	343
+Leyleech Companion	2	N/A	Companion	Underground	Monstrosity	Small	344
+Halorin Yandres	3	1	Soldier	Grave Order	Undead	Medium	351
+Lestheris Soldrei	3	2	Artillery	Grave Order	Humanoid	Medium	352
+Jedar Pike	3	1	Support	Grave Order	Humanoid	Medium	352
+The Horror	3	1	Brute	Grave Order	Undead	Large	353
+Mycete	3	1	Controller	Grave Order	Humanoid	Medium	353
+Boog	3	3	Brute	Abominations	Monstrosity	Large	357
+Excess	3	2	Ambusher	Abominations	Monstrosity	Medium	358
+Ceemal	3	3	Support	Abominations	Monstrosity	Medium	358
+Sair	3	2	Artillery	Abominations	Monstrosity	Medium	359
+Klar	3	2	Skirmisher	Abominations	Monstrosity	Medium	359
+Lord Erasmus Deseo	3	4	Support	Black Iron Pact	Humanoid	Medium	363
+Cloak	3	4	Ambusher	Black Iron Pact	Humanoid	Medium	364
+Canon Athenodorus	3	3	Controller	Black Iron Pact	Humanoid	Medium	364
+Lady Avalla Deseo	3	3	Controller	Black Iron Pact	Humanoid	Medium	365
+Qar, Master of Jackals	3	3	Skirmisher	Black Iron Pact	Humanoid	Medium	365
+Anthracia, Princess of Venom	3	5	Controller	Wilderkith	Fey	Medium	369
+Logger	3	5	Brute	Wilderkith	Plant	Large	370
+Slyphise	3	4	Skirmisher	Wilderkith	Fey	Medium	370
+Vali	3	4	Ambusher	Wilderkith	Humanoid	Medium	371
+Tuval-Uthriar	3	4	Soldier	Wilderkith	Humanoid	Medium	371
+Harlo Honeygrin	3	6	Ambusher	Amethyst Knife	Humanoid	Small	375
+Llyvessa	3	5	Artillery	Amethyst Knife	Humanoid	Medium	376
+Jutkarr Flintfingers	3	5	Support	Amethyst Knife	Humanoid	Medium	376
+Victory Graves	3	5	Skirmisher	Amethyst Knife	Humanoid	Medium	377
+Treyvan von Harnischmann	3	5	Soldier	Amethyst Knife	Humanoid	Medium	377
+Argan Rael	3	7	Artillery	Soulbinders	Humanoid	Medium	382
+Prince Ellan Farra	3	6	Controller	Soulbinders	Humanoid	Medium	383
+Kishina Darrowind	3	6	Skirmisher	Soulbinders	Humanoid	Medium	383
+Scarlet Shadow	3	6	Ambusher	Soulbinders	Humanoid	Medium	384
+Radlee Thugram	3	7	Soldier	Soulbinders	Humanoid	Medium	384
+Aronar Valkys	3	8	Support	Hallowed Dark	Humanoid	Medium	388
+Caithas	3	7	Artillery	Hallowed Dark	Humanoid	Medium	389
+Athmia Valkys	3	8	Skirmisher	Hallowed Dark	Humanoid	Medium	389
+Vivienn Dirroze	3	7	Brute	Hallowed Dark	Humanoid	Medium	390
+Draven Malas	3	7	Controller	Hallowed Dark	Humanoid	Medium	390
