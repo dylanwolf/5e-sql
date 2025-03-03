@@ -5,15 +5,6 @@ void Main()
 	var csvData = ParseCsvFile(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), "../Source Files/monsters.csv"));
 	var rows = ConvertToSqlStructure(csvData);
 	
-	//rows.Max(x => x.Name.Length).Dump();
-	//rows.Max(x => x.Size == null ? 0 :  x.Size.Length).Dump();
-	//rows.Max(x => (x.Types == null || !x.Types.Any()) ? 0 : x.Types.Max(y => y.Length)).Dump();
-	//rows.Max(x => (x.Environments == null || !x.Environments.Any()) ? 0 : x.Environments.Max(y => y.Length)).Dump();
-	//rows.Max(x => (x.Tags == null || !x.Tags.Any()) ? 0 : x.Tags.Max(y => y.Length)).Dump();
-	//rows.Max(x => (x.Sources == null || !x.Sources.Any()) ? 0 : x.Sources.Max(y => y.Name.Length)).Dump();
-	//rows.Max(x => (x.Sources == null || !x.Sources.Any()) ? 0 : x.Sources.Max(y => y.PageReference == null ? 0 : y.PageReference.Length)).Dump();
-	//rows.Max(x => x.Url == null ? 0 : x.Url.Length).Dump();
-	
 	SaveMonsters(rows);
 }
 
@@ -228,6 +219,7 @@ public string[] FixupEnvironments(string value)
 		.Select(x => x[0].ToString().ToUpper() + x.Substring(1))
 		.Select(x => FixupEnvironmentValue(x))
 		.Where(x => !string.IsNullOrWhiteSpace(x))
+		.Distinct()
 		.ToArray();
 }
 
@@ -237,7 +229,8 @@ public string FixupEnvironmentValue(string value)
 	{
 		case "caverns":
 		case "caves":
-			return "Cave";
+		case "cave":
+			return "Underground";
 			
 		case "deserts":
 			return "Desert";

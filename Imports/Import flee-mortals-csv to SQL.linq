@@ -2,6 +2,7 @@
 
 void Main()
 {
+	// Run this after importing monsters.csv
 	var csvData = ParseCsvFile(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), "../Source Files/flee-mortals.csv"), '\t');	
 	SaveMonsters(csvData);
 }
@@ -81,7 +82,7 @@ public EntryParseResult? MapEntry(string value)
 	
 	if (new string[] { "Cave", "Enchanted Forest", "Graveyards and Tombs", "Road", "Ruined Keep", "Sewers", "Swamp" }.Contains(value))
 	{
-		if (value == "Underground") value = "Cave";
+		if (value == "Cave") value = "Underground";
 		
 		return new EntryParseResult() { Value = value, Mapping = EntryParseMapping.Environment };
 	}

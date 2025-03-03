@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS dbo.MonsterHuntingQuarry
+DROP TABLE IF EXISTS dbo.MonsterBaseName
 DROP TABLE IF EXISTS dbo.MonsterSources
 DROP TABLE IF EXISTS dbo.MonsterTags
 DROP TABLE IF EXISTS dbo.MonsterEnvironments
